@@ -1,0 +1,132 @@
+[
+	{
+		"id":1,
+		"type":"Condo",
+		"price":220000,
+		"address":"213 Grove Street",
+		"description":"Excellent place,really nice view",
+		"details":{
+			"bedrooms":2,
+			"bathrooms":1.5,
+			"area":921
+		},
+		"image":"1"	
+	},
+	{
+		"id":2,
+		"type":"House",
+		"price":410500,
+		"address":"783 Winding Way",
+		"description":"Beautiful home with lots of space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"2"	
+	},
+	{
+		"id":3,
+		"type":"Duplex",
+		"price":950000,
+		"address":"213 River Lane",
+		"description":"Great neighbourhood and green space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"3"	
+	},
+	{
+		"id":4,
+		"type":"Condo",
+		"price":555000,
+		"address":"456 River Lane",
+		"description":"Great neighbourhood space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"4"	
+	},
+	{
+		"id":5,
+		"type":"House",
+		"price":300000,
+		"address":"324 River Lane",
+		"description":"Great neighbourhood and lot's of nice green space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"5"	
+	},
+	{
+		"id":6,
+		"type":"Duplex",
+		"price":190000,
+		"address":"89 River Lane",
+		"description":"Great neighbourhood and lot's of nice green space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"6"	
+	},
+	{
+		"id":7,
+		"type":"Condo",
+		"price":775000,
+		"address":"567 River Lane",
+		"description":"Great neighbourhood and lot's of nice green space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"7"	
+	},
+	{
+		"id":8,
+		"type":"House",
+		"price":875000,
+		"address":"285 River Lane",
+		"description":"Great neighbourhood and lot's of nice green space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"8"	
+	},
+	{
+		"id":9,
+		"type":"Apartment",
+		"price":605000,
+		"address":"107 River Lane",
+		"description":"Great neighbourhood and lot's of nice green space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"9"	
+	},
+	{
+		"id":10,
+		"type":"House",
+		"price":895000,
+		"address":"56 River Lane",
+		"description":"Great neighbourhood and lot's of nice green space",
+		"details":{
+			"bedrooms":3,
+			"bathrooms":1.5,
+			"area":761
+		},
+		"image":"10"	
+	}
+]
